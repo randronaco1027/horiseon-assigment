@@ -21,3 +21,6 @@ The main selectors were changed from the generic <div> to more descriptive ones 
 
 Added notes to HTML and CSS to clearly outline what each section is accomplishing.
 
+## A screenshot of the cleaned up CSS code
+
+![cleaned up code](./assets/images/cleaned-up-code.png)
